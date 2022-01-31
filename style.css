@@ -1,7 +1,7 @@
 header {
   background-color: red;
-  text-color: black;
-  text-weight: bold; }
+  color: black;
+  font-weight: bold; }
 img {
   width: 150px;
   height: 300px;}
