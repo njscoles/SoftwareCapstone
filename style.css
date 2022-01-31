@@ -8,4 +8,7 @@ img {
   height: 900px;}
 body {
   text-align: center;}
+ul {
+  text-align: center;
+  list-style-position: inside;}
   
