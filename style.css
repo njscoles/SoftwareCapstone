@@ -1,1 +1,8 @@
-
+header {
+  background-color: red;
+  text-color: black;
+  text-weight: bold; }
+img {
+  width: 150px;
+  height: 300px;}
+  
