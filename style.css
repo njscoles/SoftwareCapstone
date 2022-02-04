@@ -1,6 +1,8 @@
 header {
   background-color: red;
   padding: 50px;
+  width: 800px;
+  border: 30px solid black;
   color: black;
   font-weight: bold; }
 img {
@@ -13,8 +15,9 @@ ul {
   list-style-position: inside;}
 p {
   background-color:lightgrey;
-  width: 300px;
-  border: 15px solid black;
-  padding: 10px;}
+  width: 500px;
+  border: 15px solid red;
+  padding: 10px;
+  text-align: center;}
  
   
