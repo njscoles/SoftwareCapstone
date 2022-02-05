@@ -8,7 +8,8 @@ header {
   font-weight: bold; }
 img {
   width: 400px;
-  height: 600px;}
+  height: 600px;
+  border: 15px solid red;}
 body {
   text-align: center;}
 ul {
