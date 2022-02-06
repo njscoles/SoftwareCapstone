@@ -5,7 +5,8 @@ header {
   border: 30px solid black;
   color: black;
   margin: auto;
-  font-weight: bold; }
+  font-weight: bold;
+  font-family: "Lucida Console", "Courier New", monospace;}
 img {
   width: 400px;
   height: 600px;
